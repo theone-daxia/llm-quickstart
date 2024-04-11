@@ -1,0 +1,5 @@
+{'loss': 2.9975, 'learning_rate': 0.0, 'epoch': 1.0}
+{'train_runtime': 14005.6276, 'train_samples_per_second': 8.182, 'train_steps_per_second': 0.128, 'train_loss': 2.75560374126754, 'epoch': 1.0}
+100%|████████████████████████████████████████████████████| 1790/1790 [3:53:25<00:00,  7.82s/it]
+/home/uhomes/miniconda3/envs/peft/lib/python3.10/site-packages/peft/utils/save_and_load.py:154: UserWarning: Could not find a config file in /data/ai/models/llm/chatglm3-6b-b098244 - will assume that the vocabulary was not modified.
+  warnings.warn(

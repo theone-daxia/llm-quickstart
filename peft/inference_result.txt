@@ -1,0 +1,23 @@
+Loading checkpoint shards: 100%|█████████████████████████████████| 7/7 [00:01<00:00,  3.55it/s]
+
+输入：
+类型#裙*版型#显瘦*风格#文艺*风格#简约*图案#印花*图案#撞色*裙下摆#压褶*裙长#连衣裙*裙领型#圆领
+
+/home/uhomes/miniconda3/envs/peft/lib/python3.10/site-packages/bitsandbytes/nn/modules.py:391: UserWarning: Input type into Linear4bit is torch.float16, but bnb_4bit_compute_dtype=torch.float32 (default). This will lead to slow inference or training speed.
+  warnings.warn('Input type into Linear4bit is torch.float16, but bnb_4bit_compute_dtype=torch.float32 (default). This will lead to slow inference or training speed.')
+
+
+ChatGLM3-6B 微调前：
+你好！根据你提供的关键词，我为你找到了一些相关的裙子款式供你参考：
+
+1. 显瘦文艺风连衣裙：这款连衣裙采用了简约的设计风格，印花图案和撞色搭配让整体更具时尚感。压褶的裙摆增加了层次感和动感，圆领的设计显得优雅大方。
+
+2. 简约印花连衣裙：这款连衣裙以简约风格为主，印花图案为整个裙子增色。压褶的裙摆让裙子更加立体，圆领的设计简约优雅。
+
+3. 撞色显瘦连衣裙：这款连衣裙采用了撞色设计，让整体更加时尚。简约的风格和压褶的裙摆让这款裙子更加动感。圆领的设计优雅大方。
+
+希望这些建议能帮助到你，如果你还有其他需求，请随时告诉我。
+
+
+ChatGLM3-6B 微调后:
+文艺范十足的连衣裙，采用撞色圆领设计，凸显出你白皙的脖颈，尽显女性魅力。简约大方的印花图案，时 尚感十足，彰显出你的文艺气质。修身版型设计，凸显出你纤细的腰身，让你在行走间尽显魅力。压褶袖口 设计，修饰手臂曲线，尽显你纤细的手臂。
